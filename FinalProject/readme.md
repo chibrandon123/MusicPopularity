@@ -9,7 +9,7 @@
 ## Description of Data Source
 - This data set comes from the "Million Song Dataset" compiled by Echo Nest. This company is working towards developing algorithms to analyze music characteristics and their popularity. 
 - Listed are the different attributes pertaining to each song
-       * 'artist.familiarity'
+-     'artist.familiarity'
        - 'artist.hotttnesss'
        - 'artist.id',
        - 'artist.latitude'
