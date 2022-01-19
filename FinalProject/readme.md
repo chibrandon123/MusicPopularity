@@ -46,3 +46,7 @@
        - 'song.year'
 - Link: https://corgis-edu.github.io/corgis/csv/music/
 
+## Analysis and Visualizations
+- We intend to analyze the correlations between a song's popularity and its different attributes
+- Bar graphs, line graphs, and pie graphs could help display visualizations of relationships that are clear and descriptive to viewers
+- Assessing this correlation may not be very straight forward so we plan to break up our graphical representations into various categories. For example, we can have a bar chart portraying the top artists (artists that have the highest aggregate 'hotttnesss' rating) and then analyzing their music in particular. Much is still left to our interpretation as we dive more into the dataset and analyze how representative its coverage is.
