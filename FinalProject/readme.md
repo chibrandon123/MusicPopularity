@@ -50,3 +50,6 @@
 - We intend to analyze the correlations between a song's popularity and its different attributes
 - Bar graphs, line graphs, and pie graphs could help display visualizations of relationships that are clear and descriptive to viewers
 - Assessing this correlation may not be very straight forward so we plan to break up our graphical representations into various categories. For example, we can have a bar chart portraying the top artists (artists that have the highest aggregate 'hotttnesss' rating) and then analyzing their music in particular. Much is still left to our interpretation as we dive more into the dataset and analyze how representative its coverage is.
+
+## Conclusion
+- We hope to find meaningful relationships between popular songs and their specific attributes. We think this would be very beneficial to modern artists who are trying to gain a more holistic understanding of the industry and what exactly their listeners gravitate towards. Furthermore, this can help us as music listeners to understand what we really appreciate about a song or music in general. We think this can be valuable to assess what qualities we deem as "art". 
