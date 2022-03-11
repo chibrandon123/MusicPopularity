@@ -1,0 +1,10 @@
+pandas
+sklearn.linear_model
+LinearRegression
+matplotlib.pyplot
+shapely.geometry
+Point
+geopandas
+GeoDataFrame
+geopy.geocoders
+Nominatim
