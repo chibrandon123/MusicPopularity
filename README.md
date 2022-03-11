@@ -1,2 +1,3 @@
 # MusicPopularity
-- Welcome to Brandon and Alex Final Project
+- Welcome to Brandon's and Alex's Final Project
+- See Final
