@@ -1,6 +1,6 @@
 # Analyzing Music Popularity based on song characteristics
 
-- Research Question: Are there correlations between a song's popularity and its compositional features? To give an example, does a song's tempo, duration, or loudness affect its popularity?
+- Research Question: Are there correlations between a song's popularity and its compositional features? To give an example, does a song's tempo, duration, or loudness affect its popularity? Futher, are certain regions around the world dominating the production of popular music and more so are cultures around the world being equally represented within the music indstury?
 
 ## Why is song popularity important?
 - What is the most famous celebrity you can think of that lived in the 18th century? For us, its a Austrian Piano Composer whose work can be deemed timeless. Personally, we believe that music is much more than a combination of sounds but rather a form of expression and human emotion. Music helps foster relationships with others as similar tastes in certain genres can indicate common interest and perspective. We want to answer the question of why people have such a strong attraction towards certain songs: what is it about different artists and their music that makes people so passionate about their work?
@@ -50,6 +50,7 @@
 - We intend to analyze the correlations between a song's popularity and its different attributes
 - Bar graphs, line graphs, and pie graphs could help display visualizations of relationships that are clear and descriptive to viewers
 - Assessing this correlation may not be very straight forward so we plan to break up our graphical representations into various categories. For example, we can have a bar chart portraying the top artists (artists that have the highest aggregate 'hotttnesss' rating) and then analyzing their music in particular. Much is still left to our interpretation as we dive more into the dataset and analyze how representative its coverage is.
+- Utilizing locational data will further allow us to discover what regions popular artists are located throughout the world. This would provide insight to the cultural and geographical differences between high popularity and low popularity music.
 
 ## Conclusion
 - We hope to find meaningful relationships between popular songs and their specific attributes. We think this would be very beneficial to modern artists who are trying to gain a more holistic understanding of the industry and what exactly their listeners gravitate towards. Furthermore, this can help us as music listeners to understand what we really appreciate about a song or music in general. We think this can be valuable to assess what qualities we deem as "art". 
