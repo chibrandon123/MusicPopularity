@@ -1,6 +1,6 @@
 View our Blog Site: https://alex-lansing.github.io/MusicFinalProject/fastpages/jupyter/2022/03/11/FinalNotebook.html
 
-View our Binder: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/chibrandon123/MusicPopularity/HEAD)
+View our Binder: 
 
 # Analyzing Music Popularity based on song characteristics
 
