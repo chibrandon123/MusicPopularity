@@ -1,7 +1,7 @@
 pandas
 sklearn
 LinearRegression
-matplotlib.pyplot
+matplotlib
 shapely.geometry
 Point
 geopandas
