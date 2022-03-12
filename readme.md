@@ -1,3 +1,6 @@
+View our Blog Site: https://alex-lansing.github.io/MusicFinalProject/fastpages/jupyter/2022/03/11/FinalNotebook.html
+View our Binder: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/chibrandon123/MusicPopularity/HEAD)
+
 # Analyzing Music Popularity based on song characteristics
 
 - Research Question: Are there correlations between a song's popularity and its compositional features? To give an example, does a song's tempo, duration, or loudness affect its popularity? Futher, are certain regions around the world dominating the production of popular music and more so are cultures around the world being equally represented within the music indstury?
