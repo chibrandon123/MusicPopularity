@@ -2,9 +2,9 @@ pandas
 sklearn
 LinearRegression
 matplotlib
-shapely.geometry
+shapely
 Point
 geopandas
 GeoDataFrame
-geopy.geocoders
+geopy
 Nominatim
