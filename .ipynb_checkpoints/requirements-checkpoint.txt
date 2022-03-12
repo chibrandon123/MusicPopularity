@@ -5,6 +5,5 @@ matplotlib
 shapely
 Point
 geopandas
-GeoDataFrame
 geopy
 Nominatim
